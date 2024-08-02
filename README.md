@@ -1,7 +1,5 @@
 # The more you help people learn, improve, and achieve new heights in their lives, the more you contribute to the Educational World.
 
-![Group 23](https://user-images.githubusercontent.com/78098329/165950326-db000636-8243-491a-852c-036c5d5c3807.svg)
-
 ## Inspiration
 
 - Nowadays, as a result of a lack of exposure to communication skills in youth, many individuals struggle with a lack of confidence and develop various phobias such as glossophobia and social phobia. 
