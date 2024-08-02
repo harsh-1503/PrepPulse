@@ -1,4 +1,3 @@
-# The more you help people learn, improve, and achieve new heights in their lives, the more you contribute to the Educational World.
 
 ## Inspiration
 
@@ -42,11 +41,11 @@
 - Deployment of models using flask on web applications 
 - Embedding the OpenCV window in the web page in real-time 
 
-## What's next for Communication buddy
+## What's next for PrepPulse
 
 - Here in this application, we planning to bring a functionality like a user can give his sentence and we could be - suggesting him better vocabulary which would make him stand out from the rest of the crowd.
 - We also have plans to add some features like text to emotion detection for premium members and prepare a mobile application for Communication Buddy. 
 - One of the main functionalities that we will be trying to integrate is the identification of the body language of the user.
 - The way in which a person appears while conversing with another person matters to create a good impression since not only the way in which we talk is important but how we communicate is also one of the most essential factors. 
 - The motive will be to detect the body language of the user and accordingly provide feedback.
-# PrepPulse
+
