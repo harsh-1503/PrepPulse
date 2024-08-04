@@ -51,7 +51,7 @@ def gen_frames():
     dict1 = {0:'Fear',1:'Happiness',2:'Neutral',3:'Sadness'}
     dict2 = {"Fear":0, "Happiness":1, "Sadness":2, "Neutral":3}
 
-    model = tf.keras.models.load_model('E:\project AI COmmunication\model4.h5')
+    # model = tf.keras.models.load_model('E:\project AI COmmunication\model4.h5')
 
     while True:
         f1 = open("face_result.txt", "a")
